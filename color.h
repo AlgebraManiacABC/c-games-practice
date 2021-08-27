@@ -1,0 +1,46 @@
+#define TEXT_BLACK "\e[30m"
+#define BACK_BLACK "\e[40m"
+#define TEXT_ADMIN "\e[31m"
+#define BACK_ADMIN "\e[41m"
+#define TEXT_GREEN "\e[32m"
+#define BACK_GREEN "\e[42m"
+#define TEXT_PUKE "\e[33m"
+#define BACK_PUKE "\e[43m"
+#define TEXT_BLUE "\e[34m"
+#define BACK_BLUE "\e[44m"
+#define TEXT_MAGENTA "\e[35m"
+#define BACK_MAGENTA "\e[45m"
+#define TEXT_CYAN "\e[36m"
+#define BACK_CYAN "\e[46m"
+#define TEXT_CLOUD "\e[37m"
+#define BACK_CLOUD "\e[47m"
+#define TEXT_GRAY "\e[90m"
+#define BACK_GRAY "\e[100m"
+#define TEXT_RED "\e[91m"
+#define BACK_RED "\e[101m"
+#define TEXT_LIME "\e[92m"
+#define BACK_LIME "\e[102m"
+#define TEXT_YELLOW "\e[93m"
+#define BACK_YELLOW "\e[103m"
+#define TEXT_SKY "\e[94m"
+#define BACK_SKY "\e[104m"
+#define TEXT_PINK "\e[95m"
+#define BACK_PINK "\e[105m"
+#define TEXT_AQUA "\e[96m"
+#define BACK_AQUA "\e[106m"
+#define TEXT_WHITE "\e[97m"
+#define BACK_WHITE "\e[107m"
+#define BOLD "\e[1m"
+#define UNDER "\e[4m"
+#define COLOR_RESET "\e[0m"
+
+//256 colors
+//ESC[ 38:5:⟨n⟩ m Select foreground color
+//ESC[ 48:5:⟨n⟩ m Select background color
+//
+//"true color"
+//ESC[ 38;2;⟨r⟩;⟨g⟩;⟨b⟩ m Select RGB foreground color
+//ESC[ 48;2;⟨r⟩;⟨g⟩;⟨b⟩ m Select RGB background color
+
+#define TEXT_BROWN "\e[38;5;130m"
+#define TEXT_ORANGE "\e[38;5;202m"
