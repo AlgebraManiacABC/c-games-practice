@@ -17,8 +17,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "func/myterm.h"
-#include "func/color.h"
+#include "./myterm.h"
+#include "./color.h"
 
 #define FOUR 1200
 #define THREE 300
