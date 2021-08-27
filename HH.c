@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "../func/select.h"
+#include "./select.h"
 
 #define SELECT BACK_SKY
 #define RESULT BACK_PUKE TEXT_BLACK
