@@ -1,7 +1,7 @@
 # c-games-practice
-Games made in C which help me practice the language
+Games (and more) made in C which help me practice the language (i.e. they are bad)
 
-Disclaimer: Not all are games, and this is also a work in progress!!
+This is all a messy work in progress!!
 
 ## color.h
 
